@@ -14,7 +14,18 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-typescript`,
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-fontawesome-css`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/markdown_pages`,
+        name: `markdown-pages`,
+      },
+    },
+    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
