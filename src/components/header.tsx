@@ -36,17 +36,29 @@ const Header = ({ siteTitle }: Props) => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="" className="nav-link" style={{ color: "white" }}>
+              <Link
+                to="/events"
+                className="nav-link"
+                style={{ color: "white" }}
+              >
                 Events
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="" className="nav-link" style={{ color: "white" }}>
+              <Link
+                to="/publications"
+                className="nav-link"
+                style={{ color: "white" }}
+              >
                 Publications
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="" className="nav-link" style={{ color: "white" }}>
+              <Link
+                to="/resources"
+                className="nav-link"
+                style={{ color: "white" }}
+              >
                 Resources
               </Link>
             </li>

@@ -49,9 +49,9 @@ const Footer = () => {
                 alignItems: "center",
               }}
             >
-              <Link to="">Publications</Link>
-              <Link to="">Events</Link>
-              <Link to="">Institutions</Link>
+              <Link to="/publications">Publications</Link>
+              <Link to="/events">Events</Link>
+              <Link to="/institutions">Institutions</Link>
             </div>
           </Col>
           <Col md={4}>
