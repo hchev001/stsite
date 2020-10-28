@@ -1,8 +1,8 @@
 ## EVENTS AND WORKSHOPS
 
-All events and workshops are supported by the National Science Foundation under IUSE grant DUE-1525112; TUES II grant DUE-1225742; and CCLI Phase I grants DUE-0736833. Any opinions, findings, conclusions, or recommendations expressed in the materials produced from these collaborations are those of the author(s), and do not necessarily reflect the views of the National Science Foundation. 
+All events and workshops are supported by the National Science Foundation under IUSE grant DUE-1525112; TUES II grant DUE-1225742; and CCLI Phase I grants DUE-0736833. Any opinions, findings, conclusions, or recommendations expressed in the materials produced from these collaborations are those of the author(s), and do not necessarily reflect the views of the National Science Foundation.
 
-### LESSEP - 2019
+<!-- ### LESSEP - 2019
 @ Florida International University
 June 7th and 8th, 2019
 
@@ -52,4 +52,4 @@ June 23rd & 24th, 2010
 
 ### WISTPC 2009
 @ Florida International University
-March 16th & 17th, 2009
+March 16th & 17th, 2009 -->
