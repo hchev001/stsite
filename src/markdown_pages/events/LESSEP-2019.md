@@ -3,15 +3,15 @@ title: LESSEP 2019 - 1
 subtitle: Sixth Workshop on Using Learning and Engagement Stategies in Software Engineering and Programming Courses
 ---
 
-**Flyer:** LESSEP-19-1-Flyer
+**Flyer:** [LESSEP-19-1-Flyer](./lessep-2019-1/files/LESSEP-2019-CFP.pdf)
 
 **Date:** June 7th & 8th, 2019
 
-**Location:** Florida INternational University, Miami, FL, USA
+**Location:** <a href="https://www.fiu.edu" target="_blank" rel="noreferrer noopener">Florida International University</a>, Miami, FL, USA
 
 **Eligibility:** Instructors of CS1, CS2, Software Engineering and Software Testing courses.
 
-**Schedule:** LESSEP-19-Workshop-Schedule
+**Schedule:** [LESSEP-19-Workshop-Schedule](./lessep-2019-1/files/LESSEP-2019-1-Workshop-Schedule.pdf)
 
 **Workshop Focus:**
 
@@ -32,29 +32,23 @@ The workshop is supported by an NSF IUSE Engaged Student Learning - Design and D
 **Slides**
 
 - A: Motivation for Learning with Technology - Dr. Steven Condly (USMA)
-  - A.Condly_Motivation2.pdf
+  - [A.Condly_Motivation2.pdf](./lessep-2019-1/files/A.Condly_Motivation2.pdf)
 - B: Introduction to LESs - Dr. Peter Clarke (FIU) & Dr. Yujian FU (AAMU)
-  - B.IntroLESs-060719.pdf
+  - [B.IntroLESs-060719.pdf](./lessep-2019-1/files/B.IntroLESs-060719.pdf)
 - C: Gamification - Dr. James Kiper (MU) & Dr. Mourya Reddy (NDSU)
-  - C.Gamification-LESSEP-2019.pdf
-  - C.Gamification.pdf
+  - [C.Gamification-LESSEP-2019.pdf](./lessep-2019-1/files/C.Gamification-LESSEP-2019.pdf)
+  - [C.Gamification.pdf](./lessep-2019-1/files/C.Gamification.pdf)
 - D: Social Interaction - Dr. M.O. Thirunarayanan (FIU) & Dr. Viji Ramasamy (MU)
-  - D.LESSEP-1 2019 Social Inteaction.pdf
-  - D.Social Interaction.pdf
+  - [D.LESSEP-1 2019 Social Inteaction.pdf](./lessep-2019-1/files/LESSEP-1-2019-Social-Inteaction.pdf)
+  - [D.Social Interaction.pdf](./lessep-2019-1/files/D.Social-Interaction.pdf)
 - E: CollaborativeLearning - Dr. Peter Clarke (FIU) & Dr. Ingrid Buckley (FGCU)
-  - E.CollabLearning-060719.pdf
+  - [E.CollabLearning-060719.pdf](./lessep-2019-1/files/E.CollabLearning-060719.pdf)
 - F: Problem-Based Learning - Dr. Andrew Allen (GSU)
-  - F.ProblemProblemLearning-060819.pdf
+  - [F.ProblemProblemLearning-060819.pdf](./lessep-2019-1/files/F.ProblemProblemLearning-060819.pdf)
 - H: Report Back Session - Dr. Gursimran Walia (NDSU)
-  - H.Report Bback Session.pdf
+  - [H.Report Bback Session.pdf](./lessep-2019-1/files/H.Report-Bback-Session.pdf)
 - J: Designing a Research Study - Dr. Debra Davis (FIU)
-  - J-Progression-of-Ideas-to-Research-Questions
-  - J.Designing a Research Study-short.pdf
+  - [J-Progression-of-Ideas-to-Research-Questions](./lessep-2019-1/files/J-Progression-of-Ideas-to-Research-Questions.pdf)
+  - [J.Designing a Research Study-short.pdf](./lessep-2019-1/files/J.Designing-a-Research-Study-short.pdf)
 
 <hr />
-
-**Selected Event Images**
-
-<hr />
-
-Please contact lessep@cis.fiu.edu for additional information.
