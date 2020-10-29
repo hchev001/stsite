@@ -26,7 +26,11 @@ const Header = ({ siteTitle }: Props) => {
         <Collapse isOpen={isOpen} navbar style={{ justifyContent: "flex-end" }}>
           <Nav className="d-flex justify-content-*-between" navbar>
             <li className="nav-item">
-              <Link to="" className="nav-link" style={{ color: "white" }}>
+              <Link
+                to="/instances"
+                className="nav-link"
+                style={{ color: "white" }}
+              >
                 Instances
               </Link>
             </li>

@@ -26,7 +26,7 @@ const Footer = () => {
     <StyledFooter>
       <Container>
         <Row>
-          <Col md={4}>
+          <Col md={4} style={{ marginBottom: "50px" }}>
             <h3>About Us</h3>
             <div
               style={{
@@ -35,12 +35,12 @@ const Footer = () => {
                 alignItems: "center",
               }}
             >
-              <Link to="">Research Team</Link>
-              <Link to="">Development Team</Link>
-              <Link to="">Sponsors</Link>
+              <Link to="/research-team">Research Team</Link>
+              <Link to="/development-team">Development Team</Link>
+              <Link to="/sponsors">Sponsors</Link>
             </div>
           </Col>
-          <Col md={4}>
+          <Col md={4} style={{ marginBottom: "50px" }}>
             <h3>Research</h3>
             <div
               style={{
@@ -54,7 +54,7 @@ const Footer = () => {
               <Link to="/institutions">Institutions</Link>
             </div>
           </Col>
-          <Col md={4}>
+          <Col md={4} style={{ marginBottom: "50px" }}>
             <h3>Location</h3>
             <div
               style={{
@@ -63,12 +63,38 @@ const Footer = () => {
                 alignItems: "center",
               }}
             >
-              <Link to="">Florida International University</Link>
-              <Link to="">School of Computing and Information Sciences</Link>
+              <a
+                href="https://www.fiu.edu/"
+                target="_blank"
+                rel="norefferer noopener"
+              >
+                Florida International University
+              </a>
+              <a
+                href="https://www.cis.fiu.edu/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                School of Computing and Information Sciences
+              </a>
             </div>
           </Col>
         </Row>
       </Container>
+      <div
+        style={{
+          padding: "25px 0px",
+          background: "#233140",
+          color: "#fff",
+          textAlign: "center",
+        }}
+      >
+        <Container>
+          <Row>
+            <Col lg={12}>Copyright © Florida International University 2020</Col>
+          </Row>
+        </Container>
+      </div>
     </StyledFooter>
   )
 }
