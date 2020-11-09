@@ -1,7 +1,7 @@
 import React from "react"
 
 import { useStaticQuery, graphql } from "gatsby"
-import { Container } from "reactstrap"
+import { Container, Row, Col } from "reactstrap"
 import TemplateLayout from "../../components/Layout/template-layout"
 import styled from "styled-components"
 
@@ -34,6 +34,18 @@ const LESSEP_2017_2 = () => {
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />
         </StyledMarkdown>
+        <Row>
+          <Col>
+            <p>
+              Please contact <strong>Dr. Peter Clarke</strong> for additional
+              information:
+            </p>
+            <p>
+              <a href="mailto:clarkep@cis.fiu.edu">clarkep@cis.fiu.edu</a>
+            </p>
+            <p>Phone: (305) 348 2440</p>
+          </Col>
+        </Row>
       </Container>
     </TemplateLayout>
   )

@@ -3,10 +3,9 @@ title: LESSEP 2017 - 3
 subtitle: Fourth Workshop on Using Learning and Engagement Strategies in Software Engineering and Programming Courses
 ---
 
-
 **Date**: Friday, September 22, 2017 @ 3:30PM - 5:00PM
 
-**Location**: TAPIA
+**Location**:<a href="http://tapiaconference.org/" target="blank">TAPIA</a>
 
 **Eligibility**: Instructors of CS1, CS2, Software Engineering and Software Testing courses.
 
@@ -27,4 +26,4 @@ subtitle: Fourth Workshop on Using Learning and Engagement Strategies in Softwar
 
 **Support**:
 
-The workshop is supported by an NSF IUSE Engaged Student Learning - Design and Development Level II grant (DUE-1525112). We have funds to support travel and lodging for a limited number of persons to attend the workshop. 
+The workshop is supported by an NSF IUSE Engaged Student Learning - Design and Development Level II grant (DUE-1525112). We have funds to support travel and lodging for a limited number of persons to attend the workshop.

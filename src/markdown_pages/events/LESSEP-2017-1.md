@@ -5,11 +5,11 @@ subtitle: Second Workshop on Using Learning and Engagement Strategies in Softwar
 
 **Date**: June 2 & June 3, 2017
 
-**Location**: Florida International University, Miami FL, USA
+**Location**: <a href="https://www.fiu.edu" target="_blank" rel="noreferrer noopener">Florida International University</a>, Miami, FL, USA
 
 **Eligibility**: Instructors of CS1, CS2, Software Engineering and Software Testing courses.
 
-**Schedule**: LESSEP-17-1-Schedule
+**Schedule**: [LESSEP-17-1-Schedule](./LESSEP-2017-1/files/LESSEP-2017-1Workshop-Schedule.pdf)
 
 **Workshop Focus**:
 
@@ -31,20 +31,20 @@ The workshop is supported by an NSF IUSE Engaged Student Learning - Design and D
 **Slides**
 
 - Introductions - Dr. Peter Clarke (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-1/files/Intro-LESSEP17-1-Friday.pdf)
 - A: Cognitive Load Theory - Dr. Steven Condly (USMA)
-	- Download Slides
+  - [Download Slides](./lessep-2017-1/files/Session-A-LESSEP17-1.pdf)
 - B: Learning Objects - Dr. Peter Clarke (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-1/files/Session-B-LESSEP17-1.pdf)
 - C: Collaborative Learning - Dr. Geoff Potvin (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-1/files/Session-C-LESSEP17-1.pdf)
 - D: Gamification - Dr. Peter Clarke (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-1/files/Session-D-LESSEP17-1.pdf)
 - E: Introduction to SEP-CyLE Student’s View - Dr. Peter Clarke (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-1/files/Session-E-LESSEP17-1.pdf)
 - F: SEP-CyLE – Instructor’s View - Dr. Gursimran Walia (NDSU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-1/files/Session-F-LESSEP17-1.pdf)
 - G: Social Interaction - Dr. M.O. Thirunarayanan (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-1/files/Session-G-LESSEP17-1.pdf)
 - J: Assessment and Evaluation - Dr. Steven Condly (USMA)
-	- Download Slides
+  - [Download Slides](./lessep-2017-1/files/Session-J-LESSEP17-1.pdf)

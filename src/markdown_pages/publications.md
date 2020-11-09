@@ -7,7 +7,8 @@ Ingrid A. Buckley, Janusz Zalewski and Peter J. Clarke. **Introducing a Cybersec
 Peter J. Clarke, Debra L. Davis, Raymond Chang-lau and Tariq M. King. 2016. **Impact of Using Tools in an Undergraduate Software Testing Course Supported by WReSTT.** ACM Transactions on Computing Education (TOCE). 17, 4 Article 18 (August 2017), 28 pages.
 
 Peter J. Clarke, Debra Davis, Tariq M. King, Jairo Pava, and Edward L. Jones. 2014. **Integrating Testing into Software Engineering Courses Supported by a CollaborativeLearning Environment.** ACM Trans. Comput. Educ. 14, 3, Article 18 (October 2014), 33 pages.
-Conferences:
+
+# Conferences:
 
 Zahedi, L., Ross, M. **Assessing the effects of gamification on computer science students: A gender study on academic performance.** Grace Hopper Research Symposium, October 1 – 4, 2019, Orlando, FL.
 

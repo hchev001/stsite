@@ -5,13 +5,13 @@ subtitle: First Workshop on Using Learning and Engagement Strategies in Software
 
 **Date**: June 10th and 11th, 2016
 
-**Location**: Florida International University, Miami FL, USA
+**Location**: <a href="https://www.fiu.edu" target="_blank" rel="noreferrer noopener">Florida International University</a>, Miami, FL, USA
 
-**Flyer**: LESSEP-16-Flyer
+**Flyer**: [LESSEP-16-Flyer](./lessep-2016/files/LESSEP-16-Flyer.pdf)
 
 **Eligibility**: Instructors of CS1, CS2, Software Engineering and Software Testing courses.
 
-**Schedule**: LESSEP-16-Schedule
+**Schedule**: [LESSEP-16-Schedule](./lessep-2016/files/LESSEP-16-Schedule.pdf)
 
 **Workshop Focus**:
 
@@ -33,23 +33,20 @@ The workshop is supported by an NSF IUSE Engaged Student Learning - Design and D
 **Slides**
 
 - Introductions - Dr. Peter Clarke (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2016/files/PeterClarke-Intro-LESSEP16-Friday.pdf)
 - A: Cognitive Load Theory - Dr. Steven Condly
-	- Download Slides
+  - [Download Slides](./lessep-2016/files/Condly_CLT.pdf)
 - B: Learning Objects - Dr. Peter Clarke (FIU), Dr. Debra Davis (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2016/files/PeterClarke-LOs-LESSEP16-060616.pdf)
 - C1/C2: Collaborative Learning - Dr. Geoff Potvin (FIU)
-	- N/A
+  - N/A
 - D: Gamification - Dr. Jim Kiper (MUO)
-	- N/A
+  - N/A
 - E: Introduction to SEP-CyLE Student’s View - Dr. Peter Clarke (FIU)
-	- N/A
+  - N/A
 - F1/F2: SEP-CyLE – Instructor’s View - Dr. Gursimran Walia (NDSU)
-	- N/A
+  - N/A
 - G: Social Interaction - Dr. M.O. Thirunarayanan (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2016/files/social_interaction-060816.pptx)
 - J: Assessment and Evaluation - Dr. Steven Condly
-	- Download Slides
-
-
-
+  - [Download Slides](./lessep-2016/files/Condly_AE.pdf)

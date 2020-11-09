@@ -83,7 +83,6 @@ const LESSEP19Flyer = () => {
   const { title, subtitle } = frontmatter
   const smallImages = data.smallImages.edges
   const largeImages = data.largeImages.edges
-  console.log(largeImages)
 
   return (
     <TemplateLayout title={title} subtitle={subtitle}>

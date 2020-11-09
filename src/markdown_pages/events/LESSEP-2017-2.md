@@ -5,11 +5,11 @@ subtitle: Third Workshop on Using Learning and Engagement Strategies in Software
 
 **Date**: June 28, 2017: 1:30pm - 5:30pm
 
-**Location**: ASEE
+**Location**: <a href="https://www.asee.org/" target="blank">ASEE</a>
 
 **Eligibility**: Instructors of CS1, CS2, Software Engineering and Software Testing courses.
 
-**Schedule**: LESSEP-17-2-Schedule
+**Schedule**: [LESSEP-17-2-Schedule](./lessep-2017-2/files/LESSEP-2017-2-Schedule.pdf)
 
 **Workshop Focus**:
 
@@ -31,18 +31,12 @@ The workshop is supported by an NSF IUSE Engaged Student Learning - Design and D
 **Slides**
 
 - Introductions - Dr. Peter Clarke (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-2/files/Intro-LESSEP17-2-Intro.pdf)
 - A: Learning and Engagement Strategies - Dr. Peter Clarke (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-2/files/Session-A-LESSEP17-2.pdf)
 - B: Learning Objects - Dr. Peter Clarke (FIU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-2/files/Session-B-LESSEP17-2.pdf)
 - C/D: SEP-CyLE – Student’s View & Instructor’s View - Dr. Gursimran Walia (NDSU)
-	- Download Slides
+  - [Download Slides](./lessep-2017-2/files/Session-C-D-LESSEP17-2.pdf)
 
 <hr />
-
-Please contact Dr. Peter Clarke for additional information:
-
-Email: clarkep@cis.fiu.edu
-
-Phone: (305) 348 2440
