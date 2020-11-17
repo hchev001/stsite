@@ -2,57 +2,57 @@
 
 Andrew Allen, Jim Harris, and Vladan Jovanovic, **Standards driven curriculum for secure software development**, Issues in Information Systems (IIS), Volume 19, International Association for Computer Information Systems (IACIS) (accepted)
 
-Ingrid A. Buckley, Janusz Zalewski and Peter J. Clarke. **Introducing a Cybersecurity Mindset into Software Engineering Undergraduate Courses.** International Journal of Advanced Computer Science and Applications (IJACSA). 9(6) pages 448-452, 2018
+Ingrid A. Buckley, Janusz Zalewski and Peter J. Clarke. [**Introducing a Cybersecurity Mindset into Software Engineering Undergraduate Courses.**](http://thesai.org/Downloads/Volume9No6/Paper_61-Introducing_a_Cybersecurity_Mindset.pdf) [International Journal of Advanced Computer Science and Applications (IJACSA).](http://thesai.org/Publications/ViewPaper?Volume=9&Issue=6&Code=IJACSA&SerialNo=61) 9(6) pages 448-452, 2018
 
-Peter J. Clarke, Debra L. Davis, Raymond Chang-lau and Tariq M. King. 2016. **Impact of Using Tools in an Undergraduate Software Testing Course Supported by WReSTT.** ACM Transactions on Computing Education (TOCE). 17, 4 Article 18 (August 2017), 28 pages.
+Peter J. Clarke, Debra L. Davis, Raymond Chang-lau and Tariq M. King. 2016. [**Impact of Using Tools in an Undergraduate Software Testing Course Supported by WReSTT.**](http://delivery.acm.org/10.1145/3070000/3068324/a18-clarke.pdf?ip=131.94.134.65&id=3068324&acc=ACTIVE%20SERVICE&key=5CC3CBFF4617FD07%2EAAA5608A49201761%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1531359314_cb0c2e647db2cb18fe084439cc759724) [ACM Transactions on Computing Education (TOCE). 17, 4 Article 18](https://doi.org/10.1145/3068324) (August 2017), 28 pages.
 
-Peter J. Clarke, Debra Davis, Tariq M. King, Jairo Pava, and Edward L. Jones. 2014. **Integrating Testing into Software Engineering Courses Supported by a CollaborativeLearning Environment.** ACM Trans. Comput. Educ. 14, 3, Article 18 (October 2014), 33 pages.
+Peter J. Clarke, Debra Davis, Tariq M. King, Jairo Pava, and Edward L. Jones. 2014. **[Integrating Testing into Software Engineering Courses Supported by a CollaborativeLearning Environment.](./publications_files/TOCE-clarke2014.pdf)** [ACM Trans. Comput. Educ. 14, 3, Article 18](http://dl.acm.org/citation.cfm?id=2648787) (October 2014), 33 pages.
 
 # Conferences:
 
-Zahedi, L., Ross, M. **Assessing the effects of gamification on computer science students: A gender study on academic performance.** Grace Hopper Research Symposium, October 1 – 4, 2019, Orlando, FL.
+Zahedi, L., Ross, M. **[Assessing the effects of gamification on computer science students: A gender study on academic performance.** Grace Hopper Research Symposium, October 1 – 4, 2019, Orlando, FL.
 
 Mourya Reddy Narasareddygari, Tamaike Brown, and Gursimran S. Walia. **Using Digital Learning Content Embedded in a Cyber Learning Environment to Support CS1 Pedagogy.** IEEE Conference on Frontiers in Education (FIE), 2019. (To Appear).
 
-Kaur, R.*, Maninder Singh, Tamaike Brown, Mourya Reddy Narasareddygari, and Gursimran S. Walia. **Using Association Rule Mining Algorithm to Analyze Patterns in Student Learning Content in CS1 Course.** IEEE Conference on Frontiers in Education (FIE), 2019. (To Appear).
+Kaur, R.\*, Maninder Singh, Tamaike Brown, Mourya Reddy Narasareddygari, and Gursimran S. Walia. **Using Association Rule Mining Algorithm to Analyze Patterns in Student Learning Content in CS1 Course.** IEEE Conference on Frontiers in Education (FIE), 2019. (To Appear).
 
 Tamaike Brown, Mourya Reddy Narasareddygari, Gursimran S. Walia. **Using Code Review to Improve Programming Skills of Students in an Introductory CS Course.** IEEE Conference on Frontiers in Education (FIE), 2019. (To Appear)
 
 Vijayalakshmi Ramasamy, James Kiper, Hemraj Ojha, U. Desai. **Analyzing Link Dynamics in Student Collaboration Networks using Canvas-A Student-Centered Learning Perspective.** IEEE Frontiers in Education Conference (FIE), 2019. (To Appear)
 
-Vijayalakshmi Ramasamy, Urvashi Desai, Hakam W. Alomari, and James D. Kiper. **TP-GraphMiner: TP-GraphMiner: A Clustering Framework for Task-Based Information Networks.** IEEE International Conference on System, Computation, Automation and Networking (ICSCA), July 2018,pp. 1-7
+Vijayalakshmi Ramasamy, Urvashi Desai, Hakam W. Alomari, and James D. Kiper. **[TP-GraphMiner: TP-GraphMiner: A Clustering Framework for Task-Based Information Networks.](https://ieeexplore.ieee.org/abstract/document/8541228)** [IEEE International Conference on System, Computation, Automation and Networking (ICSCA)](https://icscan.in/), July 2018,pp. 1-7
 
-Ingrid Buckley, Debra L Davis and Peter J. Clarke. **An Approach to Teaching Software Testing Supported by two Different Online Content Delivery Methods.** International Multi-Conference of Engineering, Education and Technology. Paer ID: 377.
+Ingrid Buckley, Debra L Davis and Peter J. Clarke. **[An Approach to Teaching Software Testing Supported by two Different Online Content Delivery Methods.](http://www.laccei.org/LACCEI2018-Lima/full_papers/FP377.pdf)** [International Multi-Conference of Engineering, Education and Technology.](http://wp.eng.fau.edu/laccei2019/) Paer ID: 377.
 
-Zahedi, L., Ross, M. **Implications of gamification in learning environments on women in computer science students.** ASEE 126th Annual Conference and Exposition, June 16 – 19, 2019, Tampa, FL.
+Zahedi, L., Ross, M. **[Implications of gamification in learning environments on women in computer science students.](./publications_files/asee-gamification-db-edits.pdf)** ASEE 126th Annual Conference and Exposition, June 16 – 19, 2019, Tampa, FL.
 
-Otto Borchert, Abigail Byram, Debra M. Duke, Alex David Radermacher, Mourya Reddy Narasareddygari, and Gursimran S. Walia. **Experiences using a Cyber Learning Environment in CS1 Classrooms.** The 126th Annual ASEE Conference & Exposition - Computers in Education Division. June 2019. paper ID: 26837.
+Otto Borchert, Abigail Byram, Debra M. Duke, Alex David Radermacher, Mourya Reddy Narasareddygari, and Gursimran S. Walia. **[Experiences using a Cyber Learning Environment in CS1 Classrooms.](https://www.asee.org/public/conferences/140/papers/26837/view)** [The 126th Annual ASEE Conference & Exposition - Computers in Education Division.](https://www.asee.org/conferences-and-events/conferences/annual-conference/2019) June 2019. paper ID: 26837.
 
-Debra M. Duke, Mandayam Thirunarayanan, Abigail Byram, Peter J. Clarke. **Students’ Perceptions of the Implementation of a Cyberlearning Tool.** The 126th Annual ASEE Conference & Exposition - Computing and Information Technology Division. June 2019. paper ID: 26250.
+Debra M. Duke, Mandayam Thirunarayanan, Abigail Byram, Peter J. Clarke. **[Students’ Perceptions of the Implementation of a Cyberlearning Tool.](https://www.asee.org/public/conferences/140/papers/26250/view)** [The 126th Annual ASEE Conference & Exposition - Computing and Information Technology Division.](https://www.asee.org/conferences-and-events/conferences/annual-conference/2019) June 2019. paper ID: 26250.
 
-Peter J. Clarke, Debra Lee Davis, Ingrid A. Buckley, Geoffrey Potvin, Mandayam Thirunarayanan, and Edward L. Jones. **An Approach to Integrating Learning and Engagement Strategies (LESs) into CS Class Activities.** The 126th Annual ASEE Conference & Exposition - Computing and Information Technology Division. June 2019. paper ID: 26116.
+Peter J. Clarke, Debra Lee Davis, Ingrid A. Buckley, Geoffrey Potvin, Mandayam Thirunarayanan, and Edward L. Jones. **[An Approach to Integrating Learning and Engagement Strategies (LESs) into CS Class Activities.](https://www.asee.org/public/conferences/140/papers/26116/view)** [The 126th Annual ASEE Conference & Exposition - Computing and Information Technology Division.](https://www.asee.org/conferences-and-events/conferences/annual-conference/2019) June 2019. paper ID: 26116.
 
-Asjia Marion-Bethany Gilder, Wichien Choosilp, Michael Allen Jr., Quantarius Jerome Dean, and Yujian Fu. **Supporting Object-oriented Design Learning Outcome Using Android Development Project.** The 126th ASEE Annual Conference & Exposition - Computers in Education Division. June 2019. Paper ID: 26280.
+Asjia Marion-Bethany Gilder, Wichien Choosilp, Michael Allen Jr., Quantarius Jerome Dean, and Yujian Fu. **[Supporting Object-oriented Design Learning Outcome Using Android Development Project.](https://www.asee.org/public/conferences/140/papers/26280/view)** [The 126th ASEE Annual Conference & Exposition - Computers in Education Division. June 2019.](https://www.asee.org/conferences-and-events/conferences/annual-conference/2019) Paper ID: 26280.
 
-Mourya Reddy Narasareddygari, Gursimran S. Walia, Debra M. Duke, Vijayalakshmi Ramasamy, James Kiper, Debra Lee Davis, Andrew A. Allen, and Hakam W. Alomari. **Evaluating the Impact of Combination of Enagement Strategies in SEP-CyLE on Improve Student Learning of Programming Concepts.** The 50th ACM Technical Symposium on Computer Science Education, SIGCSE 2019. February 27 - March 2, 2019, Minneapolis, MN, USA. Pages 1130-1135.
+Mourya Reddy Narasareddygari, Gursimran S. Walia, Debra M. Duke, Vijayalakshmi Ramasamy, James Kiper, Debra Lee Davis, Andrew A. Allen, and Hakam W. Alomari. **[Evaluating the Impact of Combination of Enagement Strategies in SEP-CyLE on Improve Student Learning of Programming Concepts.](https://dl.acm.org/citation.cfm?id=3287413)** [The 50th ACM Technical Symposium on Computer Science Education, SIGCSE 2019.](https://sigcse2019.sigcse.org/) February 27 - March 2, 2019, Minneapolis, MN, USA. Pages 1130-1135.
 
-Mourya Reddy Narasareddygari, Gursimran S. Walia, and Alex Radermacher. **Using Gamification and Cyber Learning Environment to Improve Students' Learning in an Introductory Computer Programming Course: An Empirical Case Study.** The 125th ASEE Annual Conference & Exposition. – Computers in Education Division, June 2018. Paper ID: 22813
+Mourya Reddy Narasareddygari, Gursimran S. Walia, and Alex Radermacher. **[Using Gamification and Cyber Learning Environment to Improve Students' Learning in an Introductory Computer Programming Course: An Empirical Case Study.](https://www.asee.org/public/conferences/106/papers/22813/view)** [The 125th ASEE Annual Conference & Exposition. – Computers in Education Division](https://www.asee.org/conferences-and-events/conferences/annual-conference/2018), June 2018. Paper ID: 22813
 
-Mourya Reddy Narasareddygari, Gursimran S. Walia, and Alex Radermacher. Gamification in Computer Science Education: a Systematic Literature Review. **The 125th ASEE Annual Conference & Exposition.** – Computers in Education Division, June 2018. Paper ID: 22808
+Mourya Reddy Narasareddygari, Gursimran S. Walia, and Alex Radermacher. **[Gamification in Computer Science Education: a Systematic Literature Review. ](https://www.asee.org/public/conferences/106/papers/22808/view)**[The 125th ASEE Annual Conference & Exposition. – Computers in Education Division](https://www.asee.org/conferences-and-events/conferences/annual-conference/2018), June 2018. Paper ID: 22808
 
-Vijayalakshmi Ramasamy, Hakam W. Alomari, James D Kiper, and Geoffrey Potvin. **A Minimally Disruptive Approach of Integrating Testing into Computer Programming Courses.** In The 2nd IEEE/ACM International Workshop of Software Engineering Education for Millennials (SEEM'18) (p. 8). 2 June 2018, Gothenburg, Sweden.
+Vijayalakshmi Ramasamy, Hakam W. Alomari, James D Kiper, and Geoffrey Potvin. **[A Minimally Disruptive Approach of Integrating Testing into Computer Programming Courses.](http://www.users.miamioh.edu/alomarhw/papers/seem2018.pdf)** In The 2nd IEEE/ACM International Workshop of Software Engineering Education for Millennials (SEEM'18) (p. 8). 2 June 2018, Gothenburg, Sweden.
 
-Peter J. Clarke, Debra L. Davis, Raymond Chang-Lau, James Kiper, Yujian Fu, and Gursimran S. Walia. **Using WReSTT Cyberlearning Environment in the Classroom.** The 124th ASEE Annual Conference & Exposition - Computers in Education Division, June 2017. Paper ID: 20158.
+Peter J. Clarke, Debra L. Davis, Raymond Chang-Lau, James Kiper, Yujian Fu, and Gursimran S. Walia. **[Using WReSTT Cyberlearning Environment in the Classroom.](https://www.asee.org/public/conferences/78/papers/19953/view)** [The 124th ASEE Annual Conference & Exposition - Computers in Education Division](http://blogs.asee.org/annual2017/), June 2017. Paper ID: 20158.
 
-Hakam Alomari, James Kiper, Gursimran S. Walia and Katherine Zaback. **Using Web-Based Repository of Testing Tutorials (WReSTT) with a Cyber Learning Environment to Improve Testing Knowledge of Computer Science Students.** The 124th ASEE Annual Conference & Exposition - Computers in Education Division, June 2017. Paper ID: 20158.
+Hakam Alomari, James Kiper, Gursimran S. Walia and Katherine Zaback. **[Using Web-Based Repository of Testing Tutorials (WReSTT) with a Cyber Learning Environment to Improve Testing Knowledge of Computer Science Students.](https://www.asee.org/public/conferences/78/papers/20158/view)** [The 124th ASEE Annual Conference & Exposition - Computers in Education Division](https://www.asee.org/public/conferences/78/papers/20158/view), June 2017. Paper ID: 20158.
 
-Yujian Fu and Peter J. Clarke.  **Gamification based Cyber Enabled Learning Environment of Software Testing.** The 123rd ASEE Annual Conference & Exposition. - Computing and Information Technologies (CIT) , June 2016. Paper ID: 15359.
+Yujian Fu and Peter J. Clarke. **[Gamification based Cyber Enabled Learning Environment of Software Testing.](http://www.asee.org/public/conferences/64/papers/15359/view)** [The 123rd ASEE Annual Conference & Exposition. - Computing and Information Technologies (CIT)](https://www.asee.org/public/conferences/64), June 2016. Paper ID: 15359.
 
-Yujian Fu, Nelson Barnes and Peter J. Clarke.  **Integrating Software Testing into Computer Science Curriculum Using WReSTT-CyLE.** The 123rd ASEE Annual Conference & Exposition. - Computing and Information Technologies (CIT) , June 2016. Paper Id: 15885.
+Yujian Fu, Nelson Barnes and Peter J. Clarke. **[Integrating Software Testing into Computer Science Curriculum Using WReSTT-CyLE.](https://www.asee.org/public/conferences/64/papers/15885/view)** [The 123rd ASEE Annual Conference & Exposition. - Computing and Information Technologies (CIT)]("https://www.asee.org/public/conferences/64), June 2016. Paper Id: 15885.
 
-Anurag Goswami, Gursimran S. Walia, and Sameer Abufardeh.  **Using a Web-Based Testing Tool Repository in Programming Course: An Empirical Study.** Proceedings of 2014 International Conference on Frontiers in Education: Computer Science and Computer Engineering . July 21- 24, FECS 2014 USA.
+Anurag Goswami, Gursimran S. Walia, and Sameer Abufardeh. **Using a Web-Based Testing Tool Repository in Programming Course: An Empirical Study.** Proceedings of 2014 International Conference on Frontiers in Education: Computer Science and Computer Engineering . July 21- 24, FECS 2014 USA.
 
-Peter J. Clarke, Debra L. Davis, Raymond Chang-lau, and Tariq King.  **Observations on Student Use of Tools in an Undergraduate Testing Class.** In Proceedings of the 121st American Societyfor Engineering Education (ASEE) - Software Engineering ConstituentCommittee Division Track (SWECC) 2014 . Paper ID: 10123, 16 pages.
+Peter J. Clarke, Debra L. Davis, Raymond Chang-lau, and Tariq King. **Observations on Student Use of Tools in an Undergraduate Testing Class.** In Proceedings of the 121st American Societyfor Engineering Education (ASEE) - Software Engineering ConstituentCommittee Division Track (SWECC) 2014 . Paper ID: 10123, 16 pages.
 
 Peter J. Clarke, Jairo Pava, Debra Davis, and Tariq M. King. **Using WReSTT in SE Courses: An Empirical Study.** In the Proceedings of the43rd ACM Technical Symposium on Computer Science Education (SIGCSE '12) . ACM, pages 307-312.
 
@@ -105,10 +105,8 @@ Tamaike Brown, Mourya Reddy, Gursimran walia, **A Systematic Literature review o
 
 # Data Collection Instruments:
 
-*     Pre/Posttest
-*     REVISED-Fall2017 Student-Pre-Posttest
-*     WReSTT Survey
-*     Workshop Survey
-*     WReSTT Instructor Follow-up Survey
-
-
+-     Pre/Posttest
+-     REVISED-Fall2017 Student-Pre-Posttest
+-     WReSTT Survey
+-     Workshop Survey
+-     WReSTT Instructor Follow-up Survey
