@@ -5,6 +5,10 @@ import { Container, Row, Col } from "reactstrap"
 import styled from "styled-components"
 
 const EventCard = styled.div`
+  :hover {
+    transform: scale(1.1);
+    cursor: pointer;
+  }
   color: white;
   width: 100%;
   height: 100%;
@@ -27,6 +31,10 @@ const EventCard = styled.div`
       color: whitesmoke;
     }
   }
+`
+
+const EventDirectory = styled(Container)`
+  margin-top: 40px;
 `
 
 const EventData = [
@@ -138,7 +146,7 @@ const Events = () => {
   }
   return (
     <TemplateLayout title="Events">
-      <Container>
+      <EventDirectory>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />
         </StyledMarkdown>
@@ -157,7 +165,7 @@ const Events = () => {
             )
           })}
         </Row>
-      </Container>
+      </EventDirectory>
     </TemplateLayout>
   )
 }
