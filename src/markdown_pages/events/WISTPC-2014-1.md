@@ -11,4 +11,4 @@ The WISTPC workshop introduces participants to a minimally intrusive approach to
 
 **Schedule**
 
-- Download WISTPC-14-1 Schedule
+- Download [WISTPC-14-1 Schedule](./wistpc-2014-1/files/SIGCSE2014-Workshop-030414.pdf)

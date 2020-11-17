@@ -5,9 +5,9 @@ subtitle: Workshop on Integrating Software Testing into Programming Courses
 
 **Date**: July 18th & 19th, 2014
 
-**Location**: Florida International University, Miami FL, 33199
+**Location**: <a href="https://www.fiu.edu" target="_blank" rel="noreferrer noopener">Florida International University</a>, Miami, FL, USA
 
-**Schedule**: Download Schedule
+**Schedule**: [Download Schedule](./wistpc-2014-2/files/Draft-Workshop-Schedule-071514.pdf)
 
 **Description**:
 
@@ -34,23 +34,29 @@ Participants are required to bring laptops.
 **Slides**:
 
 - Section A1 & A2 - Introduction to Software Testing Part 1/2:
-	- Download Slides
+
+  - [Download Slides](./wistpc-2014-2/files/)
 
 - Section B1 & B2 - Introduction to WReSTT/Student View:
-	- Download Slides
+
+  - Download Slides
 
 - Section C1 & C2 - Using WReSTT - An Instructors View Part 1:
-	- Download Slides
+
+  - Download Slides
 
 - Section D1 - Using Learning Objects in WReSTT:
-	- Download Slides
+
+  - Download Slides
 
 - Section E1 - Designing a Research Study:
-	- Download Slides
+
+  - Download Slides
 
 - Section G1 & G2 - Software Testing Tools:
-	- Download Slides
-	- Download Test Driven Development (TDD) Example
 
-	- Section H1 - Designing a Research Study:
-	- Download Slides
+  - Download Slides
+  - Download Test Driven Development (TDD) Example
+
+  - Section H1 - Designing a Research Study:
+  - Download Slides

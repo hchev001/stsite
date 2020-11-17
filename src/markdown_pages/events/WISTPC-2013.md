@@ -23,35 +23,35 @@ The workshop is supported by an NSF TUES 2 grant and we have funds to support tr
 
 **Schedule**
 
-- Download WISTPC-13 Schedule
+- Download [WISTPC-13 Schedule](./wistpc-2013/files/WISTPC-13-Schedule.pdf)
 
 **Presentations & Practical Sessions**:
 
 - Introduction and Workshop Pretest, Dr. Peter Clarke (Florida International University)
-	- Presentation Slides
+  - [Presentation Slides](./wistpc-2013/files/PeterClarke-Intro-WISTPC2013.pptx)
 - Keynote: Software Testing in Industry, Mr. Troy Thomas, (Ultimate Software)
-	- Slides coming soon.
+  - Slides coming soon.
 - A1: Overview of Software Testing, Dr. Peter Clarke (Florida International University)
-	- Presentation Slides
+  - [Presentation Slides](./wistpc-2013/files/PeterClarke-OverviewSoftwareTesting-2013.pptx)
 - B1: Introduction to WReSTT Part 1, Dr. Peter Clarke (Florida International University)
-	- Hands on walkthrough of WReSTT
+  - Hands on walkthrough of WReSTT
 - B2: Introduction to WReSTT Part 2, Dr. Peter Clarke (Florida International University)
-	- Hands on walkthrough of WReSTT
+  - Hands on walkthrough of WReSTT
 - C1: Overview of Software Testing Tools Part 1, Dr. Tariq King (Ultimate Software)
-	- Slides coming soon.
+  - Slides coming soon.
 - D1: Overview of Software Testing Tools Part 2, Mr. Cody Mack (Ultimate Software)
-	- Slides coming soon.
+  - Slides coming soon.
 - E1: Designing a Research Study, Dr. Debra Davis (Florida International University)
-	- Slides coming soon.
+  - Slides coming soon.
 - F1: Project Evaluation, Dr. Steven Condly (United States Military Academy)
-	- Slides coming soon.
+  - Slides coming soon.
 - G1: WReSTT Training Session Part 1, Dr. Yujian Fu (Alabama Agricultural and Mechanical University)
-	- Presentation Slides
+  - [Presentation Slides](./wistpc-2013/files/Yujian-Fu-WReSTT-Part-1.pdf)
 - H1:WReSTT Training Session Part 2, Dr. Gursimran Walia (North Dakota State University)
-	- Presentation Slides
+  - [Presentation Slides](./wistpc-2013/files/Walia-WReSTT-part-2-slides.pptx)
 - I1: Using Learning Objects in WReSTT, Dr. Peter Clarke (Florida International University)
-	- Presentation Slides
+  - [Presentation Slides](./wistpc-2013/files/PeterClarke-UsingLOs-2013.pptx)
 - J1: Round Table Discussion – Using WReSTT, Dr. Jim Kiper (Miami University Ohio)
-	- Slides coming soon.
+  - Slides coming soon.
 - K1: WReSTT: A Reflection, Dr. Edward Jones (Florida Agricultural and Mechanical University)
-	- Presentation Slides
+  - [Presentation Slides](./wistpc-2013/files/WISTPC2013_Reflections-EdJones.pptx)

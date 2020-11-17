@@ -19,25 +19,25 @@ The objectives and outcomes of the workshop are as follows:
 
 **Schedule**:
 
-- Download WISTPC-09 Schedule
+- Download [WISTPC-09 Schedule](./wistpc-2009/files/WISTPC-09_Schedule.doc)
 
 **Presentations & Practical Sessions**:
 
 - Distinguished Guest Speaker, Dr. Cem Kaner (Florida Tech)
-	- Presentation Slides
+  - [Presentation Slides](./wistpc-2009/files/kanerTestCurriculumFIU.pdf)
 - Session A: Unit Testing, Tariq King (Florida International University)
-	- Presentation Slides
-	- PBA Example Specification
-	- Lab 1 - Hands on with JUnit 4
-	- Lab 2 - Hands on with EclEmma
+  - [Presentation Slides](./wistpc-2009/files/WISTPC-09_Session_A.ppt)
+  - [PBA Example Specification](./wistpc-2009/files/PBA_Specification.doc)
+  - [Lab 1 - Hands on with JUnit 4](./wistpc-2009/files/WISTPC-09_Session_A_Lab_1.doc)
+  - [Lab 2 - Hands on with EclEmma](./wistpc-2009/files/WISTPC-09_Session_A_Lab_2.doc)
 - Session B: Web-Based Testing, Michael Longin (Ultimate Software)
-	- Presentation Slides
-	- Lab 1 - Navigating (SWAT/Fitnesse)
-	- Lab 2 - Searching with Google (SWAT/Fitnesse)
+  - [Presentation Slides](./wistpc-2009/files/WISTPC-09_Session_B.ppt)
+  - [Lab 1 - Navigating (SWAT/Fitnesse)](./wistpc-2009/files/WISTPC-09_Session_B_Lab_1.doc)
+  - [Lab 2 - Searching with Google (SWAT/Fitnesse)](./wistpc-2009/files/WISTPC-09_Session_B_Lab_2.doc)
 - Session C: Introduction to WReSTT, Dr. Peter J. Clarke (FIU)
-	- Presentation Slides
+  - [Presentation Slides](./wistpc-2009/files/WISTPC-09_Session_C.ppt)
 - Session D: Web Center for Automated Testing, Dr. Stephen Edwards, (Virginia Tech)
-	- Presentation Slides
+  - [Presentation Slides](./wistpc-2009/files/WISTPC-09_Session_D.pdf)
 - Session E: Functional Testing, Susann Ulrich, (IBM)
-	- Presentation Slides
-	- Lab - Rational Functional Tester
+  - [Presentation Slides](./wistpc-2009/files/WISTPC-09_Session_E.ppt)
+  - [Lab - Rational Functional Tester](./wistpc-2009/files/WISTPC-09_Session_E_Lab.doc)

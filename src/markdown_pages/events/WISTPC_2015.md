@@ -5,11 +5,11 @@ subtitle: Workshop on Integrating Software Testing into Programming Courses
 
 **Date**: June 12-13
 
-**Location**: Florida International University
+**Location**: <a href="https://www.fiu.edu" target="_blank" rel="noreferrer noopener">Florida International University</a>, Miami, FL, USA
 
-**Flyer**: WISTPC-15-Flyer
+**Flyer**: [WISTPC-15-Flyer](./wistpc-2015/files/WISTPC-15-Flyer.pdf)
 
-**Schedule**: WISTPC-15-Schedule
+**Schedule**: [WISTPC-15-Schedule](./wistpc-2015/files/Tentative-Workshop-Schedule-060415.pdf)
 
 **Description**:
 
@@ -35,25 +35,24 @@ The workshop is supported by an NSF TUES II grant and we have funds to support t
 
 **Slides**
 
-- A1/A2: Introduction to Software Testing 
-- Dr. Jim Kiper (MUO)
-	- Download Slides
+- A1/A2: Introduction to Software Testing Dr. Jim Kiper (MUO)
+  - [Download Slides](./wistpc-2015/files/IntroToTesting-June2015-withQuestions.pptx)
 - B1/B2: Introduction to WReSTT - Dr. Peter Clarke (FIU)
-	- Download Slides
+  - [Download Slides](./wistpc-2015/files/PeterClarke-Intro-WISTPC2015-WReSTT-Intro.pptx)
 - C1/C2: Using WReSTT – An Instructor’s View - Gursimran Walia (NDSU)
-	- Download Slides
+  - [Download Slides](./wistpc-2015/files/WReSTT-Instructor-View.pptx)
 - D1: Using Learning Objects (LOs) in WReSTT - Dr. Yujian Fu (AAMU)
-	- Download Slides
-	- Download Learning Object Files
+  - [Download Slides](./wistpc-2015/files/Using-LO.pptx)
+  - [Download Learning Object Files](./wistpc-2015/files/LO.zip)
 - E1: Designing a Research Study - Dr. Debra Davis (FIU)
-	- Download Slides
+  - [Download Slides](./wistpc-2015/files/Designing-a-Research-Study.pptx)
 - F1: Success Stories and Using WReSTT - Dr. Peter Clarke (FIU)
-	- Download Slides
+  - [Download Slides](./wistpc-2015/files/PeterClarke-Intro-WISTPC2015-Studies-Stories.pptx)
 - G1: Software Testing Tools Practical Part 1 - Dionny Santiago (Ultimate Software)
-	- Download Slides
-	- Download Supplemental Files
+  - [Download Slides](./wistpc-2015/files/WISTPC-15-Testing-Tools.ppt)
+  - [Download Supplemental Files](./wistpc-2015/files/mortgagecalc.zip)
 - G2: Software Testing Tools Practical Part 2 - Dr. Robert Vanderwall (Ultimate Software)
-	- Download Slides
-	- Download Supplemental Files
+  - [Download Slides](./wistpc-2015/files/WISTPC-15-TDD.ppt)
+  - [Download Supplemental Files](./wistpc-2015/files/TDD.zip)
 - H1: Project Evaluation - Dr. Steven Condly (United States Military Academy)
-	- Download Slides
+  - [Download Slides](./wistpc-2015/files/Designing-a-Research-Study.pptx)
