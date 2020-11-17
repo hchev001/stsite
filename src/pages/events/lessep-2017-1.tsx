@@ -1,11 +1,11 @@
 import React from "react"
 
 import { useStaticQuery, graphql } from "gatsby"
-import { Container, Row, Col } from "reactstrap"
+import { Row, Col } from "reactstrap"
 import TemplateLayout from "../../components/Layout/template-layout"
 import styled from "styled-components"
 import Img from "gatsby-image"
-import { CenteredCol } from "../../components/Layout/EventPage"
+import { CenteredCol, EventContainer } from "../../components/Layout/EventPage"
 
 const StyledMarkdown = styled.div``
 
@@ -73,7 +73,7 @@ const LESSEP_2017_1 = () => {
 
   return (
     <TemplateLayout title={title} subtitle={subtitle}>
-      <Container>
+      <EventContainer>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />
         </StyledMarkdown>
@@ -134,7 +134,7 @@ const LESSEP_2017_1 = () => {
             <p>Phone: (305) 348 2440</p>
           </Col>
         </Row>
-      </Container>
+      </EventContainer>
     </TemplateLayout>
   )
 }

@@ -1,11 +1,11 @@
 import React from "react"
 
 import { useStaticQuery, graphql } from "gatsby"
-import { Col, Container, Row } from "reactstrap"
+import { Col, Row } from "reactstrap"
 import TemplateLayout from "../../components/Layout/template-layout"
 import styled from "styled-components"
 import Img from "gatsby-image"
-import { CenteredCol } from "../../components/Layout/EventPage"
+import { CenteredCol, EventContainer } from "../../components/Layout/EventPage"
 
 const StyledMarkdown = styled.div``
 
@@ -73,7 +73,7 @@ const LESSEP19Flyer = () => {
 
   return (
     <TemplateLayout title={title} subtitle={subtitle}>
-      <Container>
+      <EventContainer>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />
         </StyledMarkdown>
@@ -178,7 +178,7 @@ const LESSEP19Flyer = () => {
             </p>
           </Col>
         </Row>
-      </Container>
+      </EventContainer>
     </TemplateLayout>
   )
 }

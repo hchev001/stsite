@@ -1,9 +1,9 @@
 import React from "react"
 
 import { useStaticQuery, graphql } from "gatsby"
-import { Container } from "reactstrap"
 import TemplateLayout from "../../components/Layout/template-layout"
 import styled from "styled-components"
+import { EventContainer } from "../../components/Layout/EventPage"
 
 const StyledMarkdown = styled.div``
 
@@ -30,11 +30,11 @@ const WISTPC_2014_1 = () => {
 
   return (
     <TemplateLayout title={title} subtitle={subtitle}>
-      <Container>
+      <EventContainer>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />
         </StyledMarkdown>
-      </Container>
+      </EventContainer>
     </TemplateLayout>
   )
 }

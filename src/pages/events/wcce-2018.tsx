@@ -1,11 +1,11 @@
 import React from "react"
 
 import { useStaticQuery, graphql } from "gatsby"
-import { Container, Row, Col } from "reactstrap"
+import { Row, Col } from "reactstrap"
 import TemplateLayout from "../../components/Layout/template-layout"
 import styled from "styled-components"
 import Img from "gatsby-image"
-import { CenteredCol } from "../../components/Layout/EventPage"
+import { CenteredCol, EventContainer } from "../../components/Layout/EventPage"
 
 const StyledMarkdown = styled.div``
 
@@ -69,7 +69,7 @@ const WCCE2018 = () => {
 
   return (
     <TemplateLayout title={title} subtitle={subtitle}>
-      <Container>
+      <EventContainer>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />
         </StyledMarkdown>
@@ -175,7 +175,7 @@ const WCCE2018 = () => {
             </Col>
           </Row>
         </Row>
-      </Container>
+      </EventContainer>
     </TemplateLayout>
   )
 }
