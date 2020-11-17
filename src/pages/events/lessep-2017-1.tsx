@@ -5,22 +5,9 @@ import { Container, Row, Col } from "reactstrap"
 import TemplateLayout from "../../components/Layout/template-layout"
 import styled from "styled-components"
 import Img from "gatsby-image"
+import { CenteredCol } from "../../components/Layout/EventPage"
 
 const StyledMarkdown = styled.div``
-
-const CenteredCol = styled(Col)`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-
-  .gatsby-image-wrapper {
-    margin-top: 10px;
-  }
-  small {
-    margin-top: 10px;
-  }
-`
 
 const LESSEP_2017_1 = () => {
   const data = useStaticQuery(graphql`
