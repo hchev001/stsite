@@ -1,4 +1,4 @@
-# Journals:
+### Journals:
 
 Andrew Allen, Jim Harris, and Vladan Jovanovic, **Standards driven curriculum for secure software development**, Issues in Information Systems (IIS), Volume 19, International Association for Computer Information Systems (IACIS) (accepted)
 
@@ -8,9 +8,9 @@ Peter J. Clarke, Debra L. Davis, Raymond Chang-lau and Tariq M. King. 2016. [**I
 
 Peter J. Clarke, Debra Davis, Tariq M. King, Jairo Pava, and Edward L. Jones. 2014. **[Integrating Testing into Software Engineering Courses Supported by a CollaborativeLearning Environment.](./publications_files/TOCE-clarke2014.pdf)** [ACM Trans. Comput. Educ. 14, 3, Article 18](http://dl.acm.org/citation.cfm?id=2648787) (October 2014), 33 pages.
 
-# Conferences:
+### Conferences:
 
-Zahedi, L., Ross, M. **[Assessing the effects of gamification on computer science students: A gender study on academic performance.** Grace Hopper Research Symposium, October 1 – 4, 2019, Orlando, FL.
+Zahedi, L., Ross, M. **Assessing the effects of gamification on computer science students: A gender study on academic performance.** Grace Hopper Research Symposium, October 1 – 4, 2019, Orlando, FL.
 
 Mourya Reddy Narasareddygari, Tamaike Brown, and Gursimran S. Walia. **Using Digital Learning Content Embedded in a Cyber Learning Environment to Support CS1 Pedagogy.** IEEE Conference on Frontiers in Education (FIE), 2019. (To Appear).
 
@@ -24,7 +24,7 @@ Vijayalakshmi Ramasamy, Urvashi Desai, Hakam W. Alomari, and James D. Kiper. **[
 
 Ingrid Buckley, Debra L Davis and Peter J. Clarke. **[An Approach to Teaching Software Testing Supported by two Different Online Content Delivery Methods.](http://www.laccei.org/LACCEI2018-Lima/full_papers/FP377.pdf)** [International Multi-Conference of Engineering, Education and Technology.](http://wp.eng.fau.edu/laccei2019/) Paer ID: 377.
 
-Zahedi, L., Ross, M. **[Implications of gamification in learning environments on women in computer science students.](./publications_files/asee-gamification-db-edits.pdf)** ASEE 126th Annual Conference and Exposition, June 16 – 19, 2019, Tampa, FL.
+Zahedi, L., Ross, M. **[Implications of gamification in learning environments on women in computer science students.](./publications_files/asee-gamification-jb-edits.pdf)** ASEE 126th Annual Conference and Exposition, June 16 – 19, 2019, Tampa, FL.
 
 Otto Borchert, Abigail Byram, Debra M. Duke, Alex David Radermacher, Mourya Reddy Narasareddygari, and Gursimran S. Walia. **[Experiences using a Cyber Learning Environment in CS1 Classrooms.](https://www.asee.org/public/conferences/140/papers/26837/view)** [The 126th Annual ASEE Conference & Exposition - Computers in Education Division.](https://www.asee.org/conferences-and-events/conferences/annual-conference/2019) June 2019. paper ID: 26837.
 
@@ -48,52 +48,53 @@ Hakam Alomari, James Kiper, Gursimran S. Walia and Katherine Zaback. **[Using We
 
 Yujian Fu and Peter J. Clarke. **[Gamification based Cyber Enabled Learning Environment of Software Testing.](http://www.asee.org/public/conferences/64/papers/15359/view)** [The 123rd ASEE Annual Conference & Exposition. - Computing and Information Technologies (CIT)](https://www.asee.org/public/conferences/64), June 2016. Paper ID: 15359.
 
-Yujian Fu, Nelson Barnes and Peter J. Clarke. **[Integrating Software Testing into Computer Science Curriculum Using WReSTT-CyLE.](https://www.asee.org/public/conferences/64/papers/15885/view)** [The 123rd ASEE Annual Conference & Exposition. - Computing and Information Technologies (CIT)]("https://www.asee.org/public/conferences/64), June 2016. Paper Id: 15885.
+Yujian Fu, Nelson Barnes and Peter J. Clarke. **[Integrating Software Testing into Computer Science Curriculum Using WReSTT-CyLE.](https://www.asee.org/public/conferences/64/papers/15885/view)** [The 123rd ASEE Annual Conference & Exposition. - Computing and Information Technologies (CIT)](https://www.asee.org/public/conferences/64), June 2016. Paper Id: 15885.
 
-Anurag Goswami, Gursimran S. Walia, and Sameer Abufardeh. **Using a Web-Based Testing Tool Repository in Programming Course: An Empirical Study.** Proceedings of 2014 International Conference on Frontiers in Education: Computer Science and Computer Engineering . July 21- 24, FECS 2014 USA.
+Anurag Goswami, Gursimran S. Walia, and Sameer Abufardeh. **[Using a Web-Based Testing Tool Repository in Programming Course: An Empirical Study.](./publications_files/FEC2711.pdf)** [Proceedings of 2014 International Conference on Frontiers in Education: Computer Science and Computer Engineering](http://blogs.asee.org/annual2017) . July 21- 24, FECS 2014 USA.
 
-Peter J. Clarke, Debra L. Davis, Raymond Chang-lau, and Tariq King. **Observations on Student Use of Tools in an Undergraduate Testing Class.** In Proceedings of the 121st American Societyfor Engineering Education (ASEE) - Software Engineering ConstituentCommittee Division Track (SWECC) 2014 . Paper ID: 10123, 16 pages.
+Peter J. Clarke, Debra L. Davis, Raymond Chang-lau, and Tariq King. **[Observations on Student Use of Tools in an Undergraduate Testing Class.](./publications_files/ASEE-Final-TestingPaper-021714.pdf)** [In Proceedings of the 121st American Societyfor Engineering Education (ASEE) - Software Engineering ConstituentCommittee Division Track (SWECC) 2014](http://www.asee.org/public/conferences/32/papers/10123/view). Paper ID: 10123, 16 pages.
 
-Peter J. Clarke, Jairo Pava, Debra Davis, and Tariq M. King. **Using WReSTT in SE Courses: An Empirical Study.** In the Proceedings of the43rd ACM Technical Symposium on Computer Science Education (SIGCSE '12) . ACM, pages 307-312.
+Peter J. Clarke, Jairo Pava, Debra Davis, and Tariq M. King. **[Using WReSTT in SE Courses: An Empirical Study.](./publications_files/SIGCSE2012.pdf)** [In the Proceedings of the43rd ACM Technical Symposium on Computer Science Education (SIGCSE '12)](http://dl.acm.org/citation.cfm?id=2157136). ACM, pages 307-312.
 
-Peter J. Clarke, Jairo Pava, Yali Wu, and Tariq M. King. 2011. **Collaborative Web-Based Learning of Testing Tools in SE Courses.** In Proceedings of the 42nd ACM Technical Symposium on Computer Science Education (SIGCSE '11). ACM, New York, NY, USA, pages 147-152.
+Peter J. Clarke, Jairo Pava, Yali Wu, and Tariq M. King. 2011. **[Collaborative Web-Based Learning of Testing Tools in SE Courses.](./publications_files/SIGCSE2011.pdf)** [In Proceedings of the 42nd ACM Technical Symposium on Computer Science Education (SIGCSE '11)](http://dl.acm.org/citation.cfm?id=1953163&picked=prox). ACM, New York, NY, USA, pages 147-152.
 
-Peter J. Clarke, Andrew A. Allen, Tariq M. King, Edward L. Jones, and Prathiba Natesan. **Using a Web-Based Repository to Integrate Testing Tools into Programming Courses.** In Proceedings of the ACM international Conference Companion on Object Oriented Programming Systems Languages and Applications Companion. SPLASH 2010, pages 193-200.
-Workshops:
+Peter J. Clarke, Andrew A. Allen, Tariq M. King, Edward L. Jones, and Prathiba Natesan. **[Using a Web-Based Repository to Integrate Testing Tools into Programming Courses.](./publications_files/SPLASH-2010.pdf)** [In Proceedings of the ACM international Conference Companion on Object Oriented Programming Systems Languages and Applications Companion](http://dl.acm.org/citation.cfm?id=1869542&picked=prox&CFID=223467522&CFTOKEN=52169825). SPLASH 2010, pages 193-200.
 
-Peter J. Clarke, Debra L. Davis, James Kiper and Edward Jones. **Using Learning and Engagement Strategies in Software Engineering and Programming Courses (LESSEP17-3).** In 2017 ACM Richard Tapia Celebration of Diversity in Computing Conference. Atlanta, GA, USA, September 22, 2017 page 30.
+### Workshops:
 
-Peter J. Clarke, Debra L Davis, Gursimran Walia and Hakam Alomari. 2017. **W472L: Workshop on Using Learning and Engagement Strategies in Software Engineering and Programming Courses (LESSEP17-2).** In 2017 ASEE Annual Conference Program (ASEE 2017). . ASEE. June 28th, page 231. (abstract only).
+Peter J. Clarke, Debra L. Davis, James Kiper and Edward Jones. **Using Learning and Engagement Strategies in Software Engineering and Programming Courses (LESSEP17-3).** [In 2017 ACM Richard Tapia Celebration of Diversity in Computing Conference](https://d10k7k7mywg42z.cloudfront.net/assets/5a5fa31e40780805c414936d/TAPIA_2017_program_final.pdf). Atlanta, GA, USA, September 22, 2017 page 30.
 
-Peter J. Clarke, Yujian Fu, James Kiper, and Gursimran Walia. 2014. **Integrating software testing into programming courses (WISTPC 2014)** In Proceedings of the 45th ACM technical symposium on Computer science education (SIGCSE '14) . ACM, New York, NY, USA, 739-740. (abstract only).
+Peter J. Clarke, Debra L Davis, Gursimran Walia and Hakam Alomari. 2017. **W472L: Workshop on Using Learning and Engagement Strategies in Software Engineering and Programming Courses (LESSEP17-2).** [In 2017 ASEE Annual Conference Program (ASEE 2017)](https://www.asee.org/public/conferences/78/registration/view_session?session_id=7972). . ASEE. June 28th, page 231. (abstract only).
 
-# Birds of a Feather (BoF):
+Peter J. Clarke, Yujian Fu, James Kiper, and Gursimran Walia. 2014. **Integrating software testing into programming courses (WISTPC 2014)** [In Proceedings of the 45th ACM technical symposium on Computer science education (SIGCSE '14)](http://dl.acm.org/citation.cfm?id=2539005) . ACM, New York, NY, USA, 739-740. (abstract only).
+
+### Birds of a Feather (BoF):
 
 Darina Dicheva, Christo Dichev, Elva Jones, Peter J Clarke, Lillian Cassel and Keith Irwin. Can Game Elements Make Computer Science Courses More Attractive? (Abstract Only). **Accepted to the 50th ACM Technical Symposium on Computer Science Education**, SIGCSE 2019. February 27 - March 2, 2019, Minneapolis, MN, USA.
 
-Darina Dicheva, Christo Dichev, Elva J. Jones, Peter J. Clarke, and Lillian N. Cassel. **Using Gamification Strategies to Motivate and Engage Students in Computer Science Courses: (Abstract Only) **. In Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18). 2018. ACM, New York, NY, USA, pages 1071-1071.
+Darina Dicheva, Christo Dichev, Elva J. Jones, Peter J. Clarke, and Lillian N. Cassel. **[Using Gamification Strategies to Motivate and Engage Students in Computer Science Courses: (Abstract Only)](https://dl.acm.org/citation.cfm?id=3162168)**. In Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18). 2018. ACM, New York, NY, USA, pages 1071-1071.
 
-# Posters:
+### Posters:
 
 Zahedi, L., Batten, J., Ross, M., Clarke, P., Potvin, G. (2019). **Understanding the implications of gamification on women computer science students’ engagement and women-CS fit.** Poster Session, Tapia, Sep. 18 - Sep. 21, 2019, San Diego, CA
 
 Zahedi, L., Batten, J., Ross, M., Clarke, P., Potvin, G. (2019). **Understanding the implications of gamification on women computer science students’ engagement and women-CS fit.**
 
-Mourya Reddy Narasareddygari, Gursimran S. Walia, Alex Radermacher and Otto Borchert. **Evaluating Learning Engagement Strategies in a Cyber Learning Environment during Introductory Computer Programming Courses – an Empirical Investigation**. Poster submitted to The 125th ASEE Annual Conference & Exposition. – Computers in Education Division, June 2018.
+Mourya Reddy Narasareddygari, Gursimran S. Walia, Alex Radermacher and Otto Borchert. **[Evaluating Learning Engagement Strategies in a Cyber Learning Environment during Introductory Computer Programming Courses – an Empirical Investigation](https://www.asee.org/public/conferences/106/papers/22817/view)**. Poster submitted to [The 125th ASEE Annual Conference & Exposition](https://www.asee.org/conferences-and-events/conferences/annual-conference/2018). – Computers in Education Division, June 2018.
 
-Peter J. Clarke, Debra L. Davis, Yujian FU, James Kiper, Gursimran Walia. **Integrating Testing into CS/IT Courses Supported by a Cyberlearning Environment. Poster submitted to Envisioning the Future of Undergraduate STEM Education: Research and Practice** on April 27-29, 2016 in Washington, DC.
+Peter J. Clarke, Debra L. Davis, Yujian FU, James Kiper, Gursimran Walia. **[Integrating Testing into CS/IT Courses Supported by a Cyberlearning Environment](http://www.enfusestem.org/projects/integrating-testing-into-csit-courses-supported-by-a-cyberlearning-environment/").** [Poster submitted to Envisioning the Future of Undergraduate STEM Education: Research and Practice](http://www.enfusestem.org/)\*\* on April 27-29, 2016 in Washington, DC.
 
-Peter J. Clarke and Edward L. Jones. **Web-Based Repository of Software Testing Tools (WReSTT). Transforming Undergraduate Education in STEM: Making and Measuring Impacts. 2011 CCLI/TUES Principal Investigators (PIs) Conference **January 26-28, 2011 Washington,DC.
+Peter J. Clarke and Edward L. Jones. **[Web-Based Repository of Software Testing Tools (WReSTT). Transforming Undergraduate Education in STEM: Making and Measuring Impacts](http://ccliconference.org/abstracts/540).** [2011 CCLI/TUES Principal Investigators (PIs) Conference](http://ccliconference.org/) January 26-28, 2011 Washington,DC.
 
-# Under Review:
+### Under Review:
 
 Peter J. Clarke, Debra L. Davis, Ingrid A. Buckley, Geoff Potvin, M.O. Thirunarayanan, Edward L. Jones. **“Applying a Learning and Engagement Strategies Integration Model (LESIM) to a Software Testing Class”.** Submitted to the Transaction on Computing Education. Submitted on 10/29/19.
 
-Leila Zahedi; Jasmine Batten; Monique S. Ross; Geoff Potvin; Stephanie Damas; Peter Clarke; Debra Davis. **“Gamification in Education: A Longitudinal Gender Study on Computer Science Students' Academic Performance and Identity Development". **Submitted to Journal of Computing in Higher Education (JCHE). Submitted on 10/26/2019.
+Leila Zahedi; Jasmine Batten; Monique S. Ross; Geoff Potvin; Stephanie Damas; Peter Clarke; Debra Davis. **“Gamification in Education: A Longitudinal Gender Study on Computer Science Students' Academic Performance and Identity Development".** Submitted to Journal of Computing in Higher Education (JCHE). Submitted on 10/26/2019.
 
 Hakam W. Alomari, Vijayalakshmi Ramasamy, James D. Kiper, and Geoffrey Potvin. **A User Interface (UI) and User eXperience (UX) Evaluation Framework for Cyberlearing Environments in Computer Science and Software Engineering Education”.** Under review at Journal of Computer Science Education
 
-# Papers Under Preparation:
+### Papers Under Preparation:
 
 Peter J. Clarke, M.O. Thirunarayanan, Monique Ross, Sai Chaithra Allala and Juan P. Sotomayor. **Experiences of Integrating Learning and Engagement Strategies (LESs) into Software Engineering Courses.** Pending submission to ASEE 2020 Conference & Exposition. Abstract accepted.
 
@@ -101,12 +102,12 @@ Debra L. Davis, Peter J. Clarke, and Sai Chaithra Allala. **Evaluating the impac
 
 Mourya Reddy Narasareddygari, Gursimran S. Walia, Debra M. Duke, Vijayalakshmi Ramasamy, James D. Kiper, Debra Lee Davis, Andrew A. Allen, and Hakam W. Alomari, **Investigating Common Knowledge Deficiencies of Students in Introductory Computer Programming Courses: A Multi-Site Study, Computers and Education – Elsevier**
 
-Tamaike Brown, Mourya Reddy, Gursimran walia, **A Systematic Literature review of Gamification and its Impact on STEM Education **, International Journal of Educational Technology in Higher Education - Springer
+Tamaike Brown, Mourya Reddy, Gursimran walia, **A Systematic Literature review of Gamification and its Impact on STEM Education**, International Journal of Educational Technology in Higher Education - Springer
 
-# Data Collection Instruments:
+### Data Collection Instruments:
 
--     Pre/Posttest
--     REVISED-Fall2017 Student-Pre-Posttest
--     WReSTT Survey
--     Workshop Survey
--     WReSTT Instructor Follow-up Survey
+-     [Pre/Posttest](./publications_files/Pre-Posttest.pdf)
+-     [REVISED-Fall2017 Student-Pre-Posttest](./publications_files/Fall17-Pre-Posttest.pdf)
+-     [WReSTT Survey](./publications_files/WReSTT-Survey.pdf)
+-     [Workshop Survey](./publications_files/WISTPC-WorkshopEvaluation-2014.pdf)
+-     [WReSTT Instructor Follow-up Survey](./publications_files/WReSTT-Instructor-Follow-up-Survey-021519.pdf)

@@ -4,7 +4,31 @@ import { useStaticQuery, graphql } from "gatsby"
 import { Container } from "reactstrap"
 import styled from "styled-components"
 
-const StyledMarkdown = styled.div``
+const StyledMarkdown = styled.div`
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+  h2 {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+  }
+
+  h3 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+  }
+
+  p {
+    font-size: 18px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+  }
+
+  ul {
+    margin-top: 0px;
+  }
+`
 
 const Resources = () => {
   const data = useStaticQuery(graphql`

@@ -4,7 +4,36 @@ import { useStaticQuery, graphql } from "gatsby"
 import { Container } from "reactstrap"
 import styled from "styled-components"
 
-const StyledMarkdown = styled.div``
+const StyledMarkdown = styled.div`
+  margin-top: 40px;
+  margin-bottom: 40px;
+  
+  p {
+    font-size: 16px;
+  }
+
+  h3 {
+    text-decoration: underline;
+  }
+
+  a {
+    color: #18bc9c;
+    outline: 0px;
+
+    :hover {
+      color: #18bc9c;
+      outline: 0px;
+    }
+    :focus {
+      color: #18bc9c;
+      outline: 0px;
+    }
+
+    .active {
+      color: #18bc9c;
+      outline: 0px;
+    }
+`
 
 const Publications = () => {
   const data = useStaticQuery(graphql`
