@@ -10,6 +10,12 @@ Peter J. Clarke, Debra Davis, Tariq M. King, Jairo Pava, and Edward L. Jones. 20
 
 ### Conferences:
 
+Peter J. Clarke, M. O. Thirunarayanan, Sai Chaithra Allala, Juan P Sotomayor and Monique S. Ross. **[Experiences of Integrating Learning and Engagement Strategies (LESs) into Software Engineering Courses.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjvy8X6o5ntAhUGXK0KHXCYB90QFjACegQIBRAC&url=https%3A%2F%2Fpeer.asee.org%2Fexperiences-of-integrating-learning-and-engagement-strategies-less-into-software-engineering-courses.pdf&usg=AOvVaw3O5Ac1LsNNvGP6vL_OUEvE)** [127th ASEE Annual Conference & Exposition – Software Engineering Division](https://www.asee.org/public/conferences/172/registration/view_session?session_id=12719), 2020. Paper ID#: 29819.
+
+Alomari, H., Ramasamy, V., Kiper, J.D., Potvin, G. **[A User Interface (UI) and User eXperience (UX) Evaluation Framework for Cyberlearning Environments in computer science and software engineering education,](https://doi.org/10.1016/j.heliyon.2020.e03917)** [Heliyon](<https://www.cell.com/heliyon/issue?pii=S2405-8440(19)X0006-7>). 6(5), 2020.
+
+Desai, U., Ramasamy, V., and Kiper, J. D. **[Performance Evaluation in CS1 Course using Discussion Boards - A Network-based Approach](https://dl.acm.org/doi/10.1145/3328778.3366876)**, [Proceedings of ACM Special Interest Group on Computer Science Education (SIGCSE’20)](https://sigcse2020.sigcse.org/online/papers.html), Mar 11 - 14, Portland, Oregon, USA, 2020.
+
 Zahedi, L., Ross, M. **Assessing the effects of gamification on computer science students: A gender study on academic performance.** Grace Hopper Research Symposium, October 1 – 4, 2019, Orlando, FL.
 
 Mourya Reddy Narasareddygari, Tamaike Brown, and Gursimran S. Walia. **Using Digital Learning Content Embedded in a Cyber Learning Environment to Support CS1 Pedagogy.** IEEE Conference on Frontiers in Education (FIE), 2019. (To Appear).
@@ -88,17 +94,11 @@ Peter J. Clarke and Edward L. Jones. **[Web-Based Repository of Software Testing
 
 ### Under Review:
 
-Peter J. Clarke, Debra L. Davis, Ingrid A. Buckley, Geoff Potvin, M.O. Thirunarayanan, Edward L. Jones. **“Applying a Learning and Engagement Strategies Integration Model (LESIM) to a Software Testing Class”.** Submitted to the Transaction on Computing Education. Submitted on 10/29/19.
-
 Leila Zahedi; Jasmine Batten; Monique S. Ross; Geoff Potvin; Stephanie Damas; Peter Clarke; Debra Davis. **“Gamification in Education: A Longitudinal Gender Study on Computer Science Students' Academic Performance and Identity Development".** Submitted to Journal of Computing in Higher Education (JCHE). Submitted on 10/26/2019.
 
 Hakam W. Alomari, Vijayalakshmi Ramasamy, James D. Kiper, and Geoffrey Potvin. **A User Interface (UI) and User eXperience (UX) Evaluation Framework for Cyberlearing Environments in Computer Science and Software Engineering Education”.** Under review at Journal of Computer Science Education
 
 ### Papers Under Preparation:
-
-Peter J. Clarke, M.O. Thirunarayanan, Monique Ross, Sai Chaithra Allala and Juan P. Sotomayor. **Experiences of Integrating Learning and Engagement Strategies (LESs) into Software Engineering Courses.** Pending submission to ASEE 2020 Conference & Exposition. Abstract accepted.
-
-Debra L. Davis, Peter J. Clarke, and Sai Chaithra Allala. **Evaluating the impact of Learning and Engagement Strategies (LES’s) on student learning in CS1.** Pending submission to ASEE 2020 Conference & Exposition. Abstract accepted.
 
 Mourya Reddy Narasareddygari, Gursimran S. Walia, Debra M. Duke, Vijayalakshmi Ramasamy, James D. Kiper, Debra Lee Davis, Andrew A. Allen, and Hakam W. Alomari, **Investigating Common Knowledge Deficiencies of Students in Introductory Computer Programming Courses: A Multi-Site Study, Computers and Education – Elsevier**
 
