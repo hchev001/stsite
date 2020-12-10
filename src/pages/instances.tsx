@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 
 import { useStaticQuery, graphql } from "gatsby"
 import { Container, Row, Col } from "reactstrap"
@@ -8,41 +8,55 @@ import Img from "gatsby-image"
 
 const StyledMarkdown = styled.div``
 const InstanceCard = styled.div`
-  min-width: 80%;
-  background-color: ;
+  width: 100%;
+  max-width: 450px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+`
+
+const FatRow = styled(Row)`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
 `
 const Instances = () => {
   const data = useStaticQuery(graphql`
     query {
-      AffiliatesImg: file(
-        relativePath: { eq: "sep-cyle-portfolio-tile.png" }
-      ) {
+      SepCyleImg: file(name: { eq: "sep-cyle-portfolio-tile" }) {
         childImageSharp {
-          fluid() {
+          fluid {
             ...GatsbyImageSharpFluid
           }
         }
       }
-      DemoImg: file(relativePath: { eq: "sep-cyle-portfolio-tile.demo.png" }) {
+      DemoImg: file(name: { eq: "sep-cyle-portfolio-tile-demo" }) {
         childImageSharp {
-          fluid() {
+          fluid {
             ...GatsbyImageSharpFluid
           }
         }
       }
     }
   `)
+  const { SepCyleImg, DemoImg } = data
+
+  const [modal, setModal] = useState(false)
+  const toggle = () => setModal(!modal)
+
   return (
     <TemplateLayout title="Instances">
       <Container>
-        <Row>
-          <Col>
-            <img src={ProdTile} />
-          </Col>
-          <Col>
-            <img src={DemoTile} />
-          </Col>
-        </Row>
+        <FatRow>
+          <InstanceCard>
+            <Img fluid={SepCyleImg.childImageSharp.fluid} />
+          </InstanceCard>
+          <InstanceCard>
+            <Img fluid={DemoImg.childImageSharp.fluid} />
+          </InstanceCard>
+        </FatRow>
       </Container>
     </TemplateLayout>
   )
