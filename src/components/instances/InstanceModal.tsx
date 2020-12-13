@@ -1,26 +1,56 @@
-import React, { useState } from 'react';
-import { Button, Modal, ModalHeader, ModalBody, ModalFooter } from "reactstrap";
+import React, { useState } from "react"
+import { Button, Modal, ModalHeader, ModalBody, ModalFooter } from "reactstrap"
+import styled from "styled-components"
+import Img from "gatsby-image"
 
-const InstanceModal = (props) => {
-    const { buttonLable, classNam, toggle, modal, className, buttonLabel } = props;
+const StyledModal = styled(Modal)`
+  .modal-dialog {
+    margin-left: 0;
+    margin-right: 0;
+  }
+`
+const StyledTitle = styled.span``
+export const InstanceModal = (props: any) => {
+  const {
+    buttonLable,
+    classNam,
+    toggle,
+    modal,
+    className,
+    Title,
+    children,
+    url,
+  } = props
 
-    
+  const OpenLink = () => {
+    const win = window.open(url, "_blank")
+    //@ts-ignore
+    win.focus()
+    toggle()
+  }
 
-    return (
-        return (
+  return (
     <div>
-      <Button color="danger" onClick={toggle}>{buttonLabel}</Button>
-      <Modal isOpen={modal} toggle={toggle} className={className}>
-        <ModalHeader toggle={toggle}>Modal title</ModalHeader>
-        <ModalBody>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </ModalBody>
+      <StyledModal isOpen={modal} toggle={toggle}>
+        <ModalHeader toggle={toggle}>{Title}</ModalHeader>
+        <ModalBody>{props.children}</ModalBody>
         <ModalFooter>
-          <Button color="primary" onClick={toggle}>Do Something</Button>{' '}
-          <Button color="secondary" onClick={toggle}>Cancel</Button>
+          <Button
+            color="primary"
+            style={{ background: "#18bc9c" }}
+            onClick={OpenLink}
+          >
+            Go To Instance
+          </Button>
+          <Button
+            color="secondary"
+            style={{ background: "red" }}
+            onClick={OpenLink}
+          >
+            Cancel
+          </Button>
         </ModalFooter>
-      </Modal>
+      </StyledModal>
     </div>
-  );
-    )
+  )
 }

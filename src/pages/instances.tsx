@@ -5,7 +5,7 @@ import { Container, Row, Col } from "reactstrap"
 import TemplateLayout from "../components/Layout/template-layout"
 import styled from "styled-components"
 import Img from "gatsby-image"
-
+import { InstanceModal } from "../components/instances/InstanceModal"
 const StyledMarkdown = styled.div``
 const InstanceCard = styled.div`
   width: 100%;
@@ -43,22 +43,50 @@ const Instances = () => {
   `)
   const { SepCyleImg, DemoImg } = data
 
-  const [modal, setModal] = useState(false)
-  const toggle = () => setModal(!modal)
+  const [SepcyleModal, setSepcyleModal] = useState(false)
+  const toggle = () => setSepcyleModal(!SepcyleModal)
+  const [DemoModal, setDemoModal] = useState(false)
+  const toggleDemo = () => setDemoModal(!DemoModal)
 
   return (
-    <TemplateLayout title="Instances">
-      <Container>
-        <FatRow>
-          <InstanceCard>
-            <Img fluid={SepCyleImg.childImageSharp.fluid} />
-          </InstanceCard>
-          <InstanceCard>
-            <Img fluid={DemoImg.childImageSharp.fluid} />
-          </InstanceCard>
-        </FatRow>
-      </Container>
-    </TemplateLayout>
+    <>
+      <TemplateLayout title="Instances">
+        <Container>
+          <FatRow>
+            <InstanceCard onClick={toggle}>
+              <Img fluid={SepCyleImg.childImageSharp.fluid} />
+            </InstanceCard>
+            <InstanceCard onClick={toggleDemo}>
+              <Img fluid={DemoImg.childImageSharp.fluid} />
+            </InstanceCard>
+          </FatRow>
+        </Container>
+      </TemplateLayout>
+      <InstanceModal
+        toggle={toggle}
+        modal={SepcyleModal}
+        Title="SEP-CYLE"
+        url="https://stem-cyle.cis.fiu.edu/app/#/login"
+      >
+        <span>
+          SEP-CyLE is the live instance of the STEM-CyLE learning management
+          system currently under active use by a number of institutions.{" "}
+        </span>
+      </InstanceModal>
+      <InstanceModal
+        toggle={toggleDemo}
+        modal={DemoModal}
+        Title="SEP-CYLE(DEMO)"
+        url="https://stem-cyle.cis.fiu.edu/app-demo/#/login"
+      >
+        <span>
+          SEP-CyLE (DEMO) is the demonstration instance of the STEM-CyLE
+          learning management system used to demonstrate the platform during
+          workshops, events, or institutions/instructors interested in learning
+          more about STEM-CyLE.{" "}
+        </span>
+      </InstanceModal>
+    </>
   )
 }
 
