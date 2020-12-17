@@ -35,25 +35,36 @@ import potvin from "../images/research-team/potvin.jpg"
 import thiru from "../images/research-team/thiru.jpg"
 //@ts-ignore
 import walia from "../images/research-team/walia.jpg"
+//@ts-ignore
+import viji from "../images/research-team/viji.jpg"
+
 import { bp } from "../utils/breakpoints"
 
 const TeamCard = styled.div`
   display: flex;
   flex-direction: column;
+  height: 376.8px;
+  justify-content: center;
+
+  h4 {
+    margin-top: 8px;
+  }
 
   .img-wrapper {
     display: flex;
-    justify-content: center;
     margin-bottom: 8px;
+    max-height: 300px;
 
     .image {
+      height: 100%;
+      padding-top: auto;
       width: 200px;
       max-width: 200px;
     }
   }
 
   @media ${bp.md} {
-    flex-direction: row;
+    flex-direction: column;
     margin-bottom: 8px;
 
     .img-wrapper {
@@ -88,164 +99,229 @@ const ResearchTeam = () => {
     <TemplateLayout title={title}>
       <Container style={{ paddingTop: "65px", paddingBottom: "65px" }}>
         <h2 style={{ marginBottom: 19 }}>Current Research Team Members</h2>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={peterclarkes} className="image" />
-          </div>
+        <h3 style={{ marginBottom: 14 }}>Florida International University</h3>
+        <Row>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={peterclarkes} className="image" />
+              </div>
 
-          <div>
-            <h3>Peter J. CLarke</h3>
-            <p>
-              Principal Investigator (Lead), Florida International University
-            </p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={davis} className="image" />
-          </div>
-          <div>
-            <h3>Debra Davis</h3>
-            <p>
-              Co-Principal Investigator, Florida International University (FIU)
-            </p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={potvin} className="image" />
-          </div>
-          <div>
-            <h3>Geoff Potvin</h3>
-            <p>
-              Co-Principal Investigator, Florida International University (FIU)
-            </p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={thiru} className="image" />
-          </div>
-          <div>
-            <h3>M. O. Thirunarayanan</h3>
-            <p>
-              Co-Principal Investigator, Florida International University (FIU)
-            </p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={fu} className="image" />
-          </div>
-          <div>
-            <h3>Yujian Fu</h3>
-            <p>Principal Investigator, Alabama A&M University (AAMU)</p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={barnes} className="image" />
-          </div>
-          <div>
-            <h3>Nelson Barnes</h3>
-            <p>Senior Personnel, Alabama A&M University (AAMU)</p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={jones} className="image" />
-          </div>
-          <div>
-            <h3>Edward Jones</h3>
-            <p>Principal Investigator, Florida A&M University (FAMU)</p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={ingrid} className="image" />
-          </div>
-          <div>
-            <h3>Ingrid Buckley</h3>
-            <p>Principal Investigator, Florida Gulf Coast University (FGCU)</p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={allen} className="image" />
-          </div>
-          <div>
-            <h3>Andrew Allen</h3>
-            <p>Principal Investigator, Georgia Southern University (GSU)</p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={duke} className="image" />
-          </div>
-          <div>
-            <h3>Debra Duke</h3>
-            <p>
-              Principal Investigator, Virginia Commonwealth University (VCU)
-            </p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={kiper} className="image" />
-          </div>
-          <div>
-            <h3>James Kiper</h3>
-            <p>
-              Principal Investigator, Principal Investigator, Miami University
-              (MU)
-            </p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={hakam} className="image" />
-          </div>
-          <div>
-            <h3>Hakam Alomari</h3>
-            <p>Investigator, Miami University (MU)</p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={walia} className="image" />
-          </div>
-          <div>
-            <h3>Gursimran Walia</h3>
-            <p>Principal Investigator, North Dokota State Universityh (NDSU)</p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={condly} className="image" />
-          </div>
+              <div>
+                <h4>Peter J. CLarke</h4>
+                <p>Principal Investigator (Lead)</p>
+              </div>
+            </TeamCard>
+          </Col>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={davis} className="image" />
+              </div>
+              <div>
+                <h4>Debra Davis</h4>
+                <p>Co-Principal Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={potvin} className="image" />
+              </div>
+              <div>
+                <h4>Geoff Potvin</h4>
+                <p>Co-Principal Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={thiru} className="image" />
+              </div>
+              <div>
+                <h4>M. O. Thirunarayanan</h4>
+                <p>Co-Principal Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+        </Row>
 
-          <div>
-            <h3>Steven Condly</h3>
-            <p>External Evaluator, United States Military Academy</p>
-          </div>
-        </TeamCard>
-        <TeamCard>
-          <div className="img-wrapper">
-            <img src={mourya} className="image" />
-          </div>
-          <div>
-            <h3>Mourya Reddy</h3>
-            <p>North Dokota State University (NDSU)</p>
-          </div>
-        </TeamCard>
+        <h3 style={{ marginBottom: 14 }}>Alabama A&M University</h3>
+        <Row>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={fu} className="image" />
+              </div>
+              <div>
+                <h4>Yujian Fu</h4>
+                <p>Principal Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
 
-        <h1>Affiliated Students</h1>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={barnes} className="image" />
+              </div>
+              <div>
+                <h4>Nelson Barnes</h4>
+                <p>Senior Personnel</p>
+              </div>
+            </TeamCard>
+          </Col>
+        </Row>
+
+        <h3 style={{ marginBottom: 14 }}>Florida A&M University</h3>
+        <Row>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={jones} className="image" />
+              </div>
+              <div>
+                <h4>Edward Jones</h4>
+                <p>Principal Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+        </Row>
+
+        <h3 style={{ marginBottom: 14 }}>Florida Gulf Coast University</h3>
+        <Row>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={ingrid} className="image" />
+              </div>
+              <div>
+                <h4>Ingrid Buckley</h4>
+                <p>Principal Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+        </Row>
+
+        <h3 style={{ marginBottom: 14 }}>Georgia Southern University</h3>
+        <Row>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={allen} className="image" />
+              </div>
+              <div>
+                <h4>Andrew Allen</h4>
+                <p>Principal Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+        </Row>
+
+        <h3 style={{ marginBottom: 14 }}>Virginia Commonwealth University</h3>
+        <Row>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={duke} className="image" />
+              </div>
+              <div>
+                <h4>Debra Duke</h4>
+                <p>Principal Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+        </Row>
+
+        <h3 style={{ marginBottom: 14 }}>Miami University</h3>
+        <Row>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={kiper} className="image" />
+              </div>
+              <div>
+                <h4>James Kiper</h4>
+                <p>Principal Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={hakam} className="image" />
+              </div>
+              <div>
+                <h4>Hakam Alomari</h4>
+                <p>Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={viji} className="image" />
+              </div>
+              <div>
+                <h4>Vijayalakshmi Ramasamy</h4>
+                <p>Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+        </Row>
+
+        <h3 style={{ marginBottom: 14 }}>North Dokota State Universtiy</h3>
+        <Row>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={walia} className="image" />
+              </div>
+              <div>
+                <h4>Gursimran Walia</h4>
+                <p>Principal Investigator</p>
+              </div>
+            </TeamCard>
+          </Col>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={mourya} className="image" />
+              </div>
+              <div>
+                <h4>Mourya Reddy</h4>
+                <p>North Dokota State University</p>
+              </div>
+            </TeamCard>
+          </Col>
+        </Row>
+
+        <h3 style={{ marginBottom: 14 }}>United States Military Academy</h3>
+        <Row>
+          <Col md={6}>
+            <TeamCard>
+              <div className="img-wrapper">
+                <img src={condly} className="image" />
+              </div>
+
+              <div>
+                <h4>Steven Condly</h4>
+                <p>External Evaluator</p>
+              </div>
+            </TeamCard>
+          </Col>
+        </Row>
+
+        <h3>Affiliated Students</h3>
         <ul>
           <li>
             <p>Abigail Byram, VCU</p>
           </li>
         </ul>
-        <h1>Past Research Team Members</h1>
+        <h3>Past Research Team Members</h3>
         <ul>
           <li>
             <p>
@@ -264,7 +340,7 @@ const ResearchTeam = () => {
             <p>Anurag Goswami</p>
           </li>
         </ul>
-        <h1>Past Students</h1>
+        <h3>Past Students</h3>
         <ul>
           <li>
             <p>Kate Zaback, MU</p>

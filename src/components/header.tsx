@@ -50,6 +50,15 @@ const Header = ({ siteTitle }: Props) => {
             </li>
             <li className="nav-item">
               <Link
+                to="/research-team"
+                className="nav-link"
+                style={{ color: "white" }}
+              >
+                Research Team
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link
                 to="/publications"
                 className="nav-link"
                 style={{ color: "white" }}

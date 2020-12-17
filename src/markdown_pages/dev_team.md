@@ -3,11 +3,14 @@ title: Development Team
 ---
 
 # CURRENT DEVELOPMENT TEAM MEMBERS:
+
 - Raymond Chang-Lau, Lead Software Developer
 - Hamilton Chevez
 - Juan Sotomayor
 
 # PAST DEVELOPMENT TEAM MEMBERS:
+
+- Caitlin Brown, FIU
 - Andrew Allen, FIU
 - Anjli Chhatwani, FIU
 - Barbara Espinoza, FIU

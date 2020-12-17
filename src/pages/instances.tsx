@@ -64,6 +64,7 @@ const Instances = () => {
       </TemplateLayout>
       <InstanceModal
         toggle={toggle}
+        CloseLink={toggle}
         modal={SepcyleModal}
         Title="SEP-CYLE"
         url="https://stem-cyle.cis.fiu.edu/app/#/login"
@@ -75,6 +76,7 @@ const Instances = () => {
       </InstanceModal>
       <InstanceModal
         toggle={toggleDemo}
+        CloseLink={toggleDemo}
         modal={DemoModal}
         Title="SEP-CYLE(DEMO)"
         url="https://stem-cyle.cis.fiu.edu/app-demo/#/login"

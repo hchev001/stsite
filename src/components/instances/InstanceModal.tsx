@@ -16,6 +16,7 @@ export const InstanceModal = (props: any) => {
     classNam,
     toggle,
     modal,
+    CloseLink,
     className,
     Title,
     children,
@@ -45,7 +46,7 @@ export const InstanceModal = (props: any) => {
           <Button
             color="secondary"
             style={{ background: "red" }}
-            onClick={OpenLink}
+            onClick={CloseLink}
           >
             Cancel
           </Button>
