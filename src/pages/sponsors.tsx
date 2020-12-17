@@ -4,6 +4,7 @@ import { Container, Row, Col } from "reactstrap"
 import { useStaticQuery, graphql } from "gatsby"
 import TemplateLayout from "../components/Layout/template-layout"
 import Img from "gatsby-image"
+import SEO from "../components/seo"
 
 const Sponsors = () => {
   const data = useStaticQuery(graphql`
@@ -31,6 +32,7 @@ const Sponsors = () => {
   console.log(data.allFile)
   return (
     <TemplateLayout title="Sponsors">
+      <SEO title="Sponsors" />
       <Container>
         <Row style={{ justifyContent: "center", alignItems: "center" }}>
           <Col

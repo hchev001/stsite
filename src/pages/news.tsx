@@ -3,6 +3,7 @@ import TemplateLayout from "../components/Layout/template-layout"
 import { useStaticQuery, graphql } from "gatsby"
 import { Container } from "reactstrap"
 import styled from "styled-components"
+import SEO from "../components/seo"
 
 const StyledMarkdown = styled.div`
   font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -38,6 +39,7 @@ const News = () => {
 
   return (
     <TemplateLayout title="News">
+      <SEO title="News" />
       <Container>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />

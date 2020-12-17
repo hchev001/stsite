@@ -4,6 +4,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import TemplateLayout from "../../components/Layout/template-layout"
 import styled from "styled-components"
 import { EventContainer } from "../../components/Layout/EventPage"
+import SEO from "../../components/seo"
 
 const StyledMarkdown = styled.div``
 
@@ -30,6 +31,7 @@ const LESSEP_2017_3 = () => {
 
   return (
     <TemplateLayout title={title} subtitle={subtitle}>
+      <SEO title={title} />
       <EventContainer>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />

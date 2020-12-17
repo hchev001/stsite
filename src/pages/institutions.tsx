@@ -3,6 +3,7 @@ import TemplateLayout from "../components/Layout/template-layout"
 import { useStaticQuery, graphql } from "gatsby"
 import { Container } from "reactstrap"
 import styled from "styled-components"
+import SEO from "../components/seo"
 
 const StyledMarkdown = styled.div``
 
@@ -26,6 +27,7 @@ const Institutions = () => {
   const { frontmatter, html } = data.allMarkdownRemark.nodes[0]
   return (
     <TemplateLayout title="Publications">
+      <SEO title="Institutions" />
       <Container>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />

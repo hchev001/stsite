@@ -39,6 +39,7 @@ import walia from "../images/research-team/walia.jpg"
 import viji from "../images/research-team/viji.jpg"
 
 import { bp } from "../utils/breakpoints"
+import SEO from "../components/seo"
 
 const TeamCard = styled.div`
   display: flex;
@@ -97,6 +98,7 @@ const ResearchTeam = () => {
 
   return (
     <TemplateLayout title={title}>
+      <SEO title="Research Team" />
       <Container style={{ paddingTop: "65px", paddingBottom: "65px" }}>
         <h2 style={{ marginBottom: 19 }}>Current Research Team Members</h2>
         <h3 style={{ marginBottom: 14 }}>Florida International University</h3>

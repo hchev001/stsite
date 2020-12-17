@@ -3,6 +3,7 @@ import TemplateLayout from "../components/Layout/template-layout"
 import { useStaticQuery, graphql, navigate } from "gatsby"
 import { Container, Row, Col } from "reactstrap"
 import styled from "styled-components"
+import SEO from "../components/seo"
 
 const EventCard = styled.div`
   :hover {
@@ -146,6 +147,7 @@ const Events = () => {
   }
   return (
     <TemplateLayout title="Events">
+      <SEO title="Events" />
       <EventDirectory>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />

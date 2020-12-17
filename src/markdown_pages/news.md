@@ -2,6 +2,14 @@
 title: News
 ---
 
+#### December 2020
+
+Final NSF project report submitted.
+
+#### October 2020
+
+Preparing to submit IUSE ICT grant.
+
 ##### June 2019
 
 **LESSEP 19 Summer Workshop**

@@ -6,6 +6,7 @@ import TemplateLayout from "../components/Layout/template-layout"
 import styled from "styled-components"
 import Img from "gatsby-image"
 import { InstanceModal } from "../components/instances/InstanceModal"
+import SEO from "../components/seo"
 const StyledMarkdown = styled.div``
 const InstanceCard = styled.div`
   width: 100%;
@@ -51,6 +52,7 @@ const Instances = () => {
   return (
     <>
       <TemplateLayout title="Instances">
+        <SEO title="Instances" />
         <Container>
           <FatRow>
             <InstanceCard onClick={toggle}>

@@ -4,6 +4,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import { Container } from "reactstrap"
 import TemplateLayout from "../components/Layout/template-layout"
 import styled from "styled-components"
+import SEO from "../components/seo"
 
 const StyledMarkdown = styled.div``
 
@@ -30,6 +31,7 @@ const DevelopmentTeam = () => {
 
   return (
     <TemplateLayout title={title}>
+      <SEO title={title} />
       <Container style={{ paddingTop: "65px", paddingBottom: "65px" }}>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />

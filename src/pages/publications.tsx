@@ -1,8 +1,9 @@
 import React from "react"
 import TemplateLayout from "../components/Layout/template-layout"
 import { useStaticQuery, graphql } from "gatsby"
-import { Container } from "reactstrap"
+import { Col, Container, Row } from "reactstrap"
 import styled from "styled-components"
+import SEO from "../components/seo"
 
 const StyledMarkdown = styled.div`
   margin-top: 40px;
@@ -55,9 +56,14 @@ const Publications = () => {
   const { frontmatter, html } = data.allMarkdownRemark.nodes[0]
   return (
     <TemplateLayout title="Publications">
+      <SEO title="Publications" />
       <Container>
         <StyledMarkdown>
-          <div dangerouslySetInnerHTML={{ __html: html }} />
+          <Row style={{ justifyContent: "center" }}>
+            <Col md={8}>
+              <div dangerouslySetInnerHTML={{ __html: html }} />
+            </Col>
+          </Row>
         </StyledMarkdown>
       </Container>
     </TemplateLayout>
