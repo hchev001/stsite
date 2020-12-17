@@ -7,7 +7,6 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import "bootstrap/dist/css/bootstrap.min.css"
 import { Theme } from "./Layout/Theme.styled"
 import Header from "./header"
 import Footer from "./footer"
