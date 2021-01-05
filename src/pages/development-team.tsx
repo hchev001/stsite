@@ -27,11 +27,10 @@ const DevelopmentTeam = () => {
   `)
 
   const { frontmatter, html } = data.allMarkdownRemark.nodes[0]
-  const { title } = frontmatter
 
   return (
-    <TemplateLayout title={title}>
-      <SEO title={title} />
+    <TemplateLayout title={frontmatter.title}>
+      <SEO title={frontmatter.title} />
       <Container style={{ paddingTop: "65px", paddingBottom: "65px" }}>
         <StyledMarkdown>
           <div dangerouslySetInnerHTML={{ __html: html }} />
